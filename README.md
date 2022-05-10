@@ -8,5 +8,9 @@ iGPU: UHD 630
 Lan: Working
 Wifi and BT: Fenvi hb1200
 
+
 MacOS Monterrey 12.3.1
 Opencore 8.0
+
+You should to make the usb map and replace the Usbinjectall.kext and XHCI-unsupported.kext for UsbMap.kext using UsbMap
+or Hackintool. After that if you want to enable with out troubles Facetime and Imessages you should to generate smbios with GenSmbios
